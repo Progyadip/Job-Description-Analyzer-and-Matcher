@@ -11,7 +11,7 @@ from googlesearch import search
 from dotenv import load_dotenv  # Securely load environment variables
 
 #Project made by - Progyadipta Naskar
-
+ 
 warnings.filterwarnings("ignore")
 
 # Load Environment Variables
